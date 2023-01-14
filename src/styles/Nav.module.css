@@ -1,0 +1,19 @@
+.nav {
+    padding-left: 50px;
+}
+
+.list {
+    display: flex;
+}
+
+.listItem {
+    margin-right: 50px;
+}
+
+.listItem a {
+    font-size: 18px;
+}
+
+.listItem a:hover {
+    text-decoration: underline;
+}

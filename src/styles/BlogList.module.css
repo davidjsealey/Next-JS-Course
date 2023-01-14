@@ -1,0 +1,18 @@
+.title {
+    margin-bottom: 30px;
+}
+
+.itemCard {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.itemCard:hover {
+    box-shadow: rgb(149 157 165 / 20%) 5px 5px 10px
+}
+
+.itemAnchor {
+    display: block;
+    padding: 10px;
+}
